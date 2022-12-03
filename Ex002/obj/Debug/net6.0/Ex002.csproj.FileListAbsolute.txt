@@ -1,0 +1,15 @@
+C:\Users\la-ne\OneDrive\Рабочий стол\Geek Brains\Знакомство с языками программирования\Семинар 1\Seminar_1\Ex002\bin\Debug\net6.0\Ex002.exe
+C:\Users\la-ne\OneDrive\Рабочий стол\Geek Brains\Знакомство с языками программирования\Семинар 1\Seminar_1\Ex002\bin\Debug\net6.0\Ex002.deps.json
+C:\Users\la-ne\OneDrive\Рабочий стол\Geek Brains\Знакомство с языками программирования\Семинар 1\Seminar_1\Ex002\bin\Debug\net6.0\Ex002.runtimeconfig.json
+C:\Users\la-ne\OneDrive\Рабочий стол\Geek Brains\Знакомство с языками программирования\Семинар 1\Seminar_1\Ex002\bin\Debug\net6.0\Ex002.dll
+C:\Users\la-ne\OneDrive\Рабочий стол\Geek Brains\Знакомство с языками программирования\Семинар 1\Seminar_1\Ex002\bin\Debug\net6.0\Ex002.pdb
+C:\Users\la-ne\OneDrive\Рабочий стол\Geek Brains\Знакомство с языками программирования\Семинар 1\Seminar_1\Ex002\obj\Debug\net6.0\Ex002.csproj.AssemblyReference.cache
+C:\Users\la-ne\OneDrive\Рабочий стол\Geek Brains\Знакомство с языками программирования\Семинар 1\Seminar_1\Ex002\obj\Debug\net6.0\Ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la-ne\OneDrive\Рабочий стол\Geek Brains\Знакомство с языками программирования\Семинар 1\Seminar_1\Ex002\obj\Debug\net6.0\Ex002.AssemblyInfoInputs.cache
+C:\Users\la-ne\OneDrive\Рабочий стол\Geek Brains\Знакомство с языками программирования\Семинар 1\Seminar_1\Ex002\obj\Debug\net6.0\Ex002.AssemblyInfo.cs
+C:\Users\la-ne\OneDrive\Рабочий стол\Geek Brains\Знакомство с языками программирования\Семинар 1\Seminar_1\Ex002\obj\Debug\net6.0\Ex002.csproj.CoreCompileInputs.cache
+C:\Users\la-ne\OneDrive\Рабочий стол\Geek Brains\Знакомство с языками программирования\Семинар 1\Seminar_1\Ex002\obj\Debug\net6.0\Ex002.dll
+C:\Users\la-ne\OneDrive\Рабочий стол\Geek Brains\Знакомство с языками программирования\Семинар 1\Seminar_1\Ex002\obj\Debug\net6.0\refint\Ex002.dll
+C:\Users\la-ne\OneDrive\Рабочий стол\Geek Brains\Знакомство с языками программирования\Семинар 1\Seminar_1\Ex002\obj\Debug\net6.0\Ex002.pdb
+C:\Users\la-ne\OneDrive\Рабочий стол\Geek Brains\Знакомство с языками программирования\Семинар 1\Seminar_1\Ex002\obj\Debug\net6.0\Ex002.genruntimeconfig.cache
+C:\Users\la-ne\OneDrive\Рабочий стол\Geek Brains\Знакомство с языками программирования\Семинар 1\Seminar_1\Ex002\obj\Debug\net6.0\ref\Ex002.dll
