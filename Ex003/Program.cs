@@ -29,3 +29,7 @@ if (numberD == 7)
 {
     Console.WriteLine("Воскресенье");
 }
+else
+{
+    Console.WriteLine("Попробуйте заново, введите числа от 1 до 7");
+}
